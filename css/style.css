@@ -1,0 +1,9 @@
+*{padding: 0;margin: 0;font-family: Arial, Helvetica, sans-serif;text-decoration: none;list-style: none;}
+.container{margin: auto;width: 1140px;}
+.text{text-align: center;}
+.d-flex{display: flex;}
+.sp{justify-content: space-between;}
+.align{align-items: center;}
+.slider img{width: 1000px;height: 480px;}
+.cover{background-color: black;color: white;padding-top: 40px;padding-bottom: 40px;margin-bottom: 50px;}
+.contact{background-color: lightgrey;color: black;border: solid 2px;border-color: black; box-shadow: 7px 3px 5px 3px grey;}
